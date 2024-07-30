@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uday Kumar</h1>
-<p align="center">- I am a Full stack developer @ InspironLabs Software Private Limited, I have done various group as well as individual projects in my coding journey.
+<p align="center">- I am a Java Full stack developer @ InspironLabs Software Private Limited, I have done various group as well as individual projects in my coding journey.
     I also did my Graduation 🎓 from Bangalore University 🏛. 
      My interests are coding, reading about planets, browsing, exploring new areas.
    </p>
