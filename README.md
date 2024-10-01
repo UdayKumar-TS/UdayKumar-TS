@@ -17,7 +17,6 @@
 https://www.linkedin.com/in/uday-kumar-t-s-419b26216
  )
 
-
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
